@@ -1,5 +1,5 @@
 ## 详细目录
-***
+
 ### lesson1 排序算法 Sort Algorithm
 1. 绪论 Introduction
    - 排序算法的分类（内部、外部）和八种内部排序
